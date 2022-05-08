@@ -1,5 +1,12 @@
 h1 {
     color: red;
     text-align: center;
-    background-color: black;
+    font-weight: bold;
+    font-family: Lobster;
+}
+
+ul {
+    color: red;
+    font-weight: bold;
+    font-family: Lobster;
 }
