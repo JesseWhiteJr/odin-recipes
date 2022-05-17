@@ -1,12 +1,50 @@
 h1 {
-    color: red;
+    color: brown;
     text-align: center;
     font-weight: bold;
     font-family: Lobster;
 }
 
-ul {
-    color: red;
+a {
+    color: brown;
     font-weight: bold;
     font-family: Lobster;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: brown;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+}
+
+hr {
+    background-color: brown;
+    border-color: brown;
+}
+
+section {
+    text-align: center;
+}
+
+.recipe {
+    width: 80%;
+    background-color: burlywood;
+    padding: 20px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
